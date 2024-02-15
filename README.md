@@ -31,3 +31,4 @@
 </a>    
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayoon1216)](https://solved.ac/hayoon1216/)
+![snake gif](https://github.com/hyukis/hyukis/blob/output/github-contribution-grid-snake.svg)
