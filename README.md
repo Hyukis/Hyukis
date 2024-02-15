@@ -19,7 +19,7 @@
 | Cloud | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) |
 | Collaboration | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) |
 | Blog | <a href=https://hyukis.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://hyukis.tistory.com/"/> |
-| Email |  <a href=mailto:soohyuk9612@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soohyuk9612@gmail.com"/>  |
+| Email |  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soohyuk96@naver.com)](mailto:soohyuk96@naver.com) <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soohyuk9612@gmail.com"/>  |
 </div> <br/>
 
 <h2> 📈 Repo Status & Coding-Test</h2>
