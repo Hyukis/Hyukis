@@ -30,6 +30,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyukis&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayoon1216)](https://solved.ac/hayoon1216/)
-
 <img src="https://github.com/hyukis/hyukis/blob/output/github-snake-dark.svg" width="100%">
